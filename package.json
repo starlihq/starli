@@ -1,0 +1,29 @@
+{
+  "name": "starli",
+  "version": "1.0.0",
+  "description": "Everything CLI. WIP",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starlihq/starli.git"
+  },
+  "keywords": [
+    "starli",
+    "cli",
+    "scaffolder",
+    "anything"
+  ],
+  "author": "SiddharthShyniben <siddharth.muscat@gmail.com> (https://github.com/SiddharthShyniben)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/starlihq/starli/issues"
+  },
+  "homepage": "https://github.com/starlihq/starli#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
